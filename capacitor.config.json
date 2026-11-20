@@ -1,0 +1,20 @@
+{
+  "appId": "com.wenwen.amsreviewer",
+  "appName": "AMS Reviewer",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "server": {
+    "url": "https://wenwenamstheoreviewer.orellabac-mniwrehs.workers.dev/",
+    "allowNavigation": [
+      "wenwenamstheoreviewer.orellabac-mniwrehs.workers.dev",
+      "wenwenamsreviewer.orellabac-mniwrehs.workers.dev",
+      "accounts.google.com",
+      "*.cloudflareaccess.com"
+    ],
+    "cleartext": false
+  },
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#000000"
+  }
+}
